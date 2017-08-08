@@ -45,7 +45,7 @@
 <body>
 
 	<h1>Git Deployment Script</h1>
-	<p>This page reports about git's commands status, for a producction server updates, based on GitHub's WebHooks.</p>
+	<p>This page reports about git's commands status, for a production server updates based on GitHub's WebHooks.</p>
 
 	<div style="width:700px">
 		<div style="float:left;width:350px;">
