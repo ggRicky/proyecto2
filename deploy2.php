@@ -33,7 +33,17 @@
     <meta charset="UTF-8">
     <title>Git Deployment Script</title>
 </head>
-<body style="background-color: #000000; color: #FFFFFF; font-weight: bold; padding: 0 10px;">
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+        background-color: #ffffff;
+        color: #000000;
+    }
+</style>
+
+<body>
 <div style="width:700px">
     <div style="float:left;width:350px;">
     <p style="color:white;">Git Deployment Script</p>
